@@ -1,0 +1,18 @@
+# Binary
+vibedetector
+vibedetector.exe
+
+# Build artifacts
+*.o
+*.a
+*.so
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
